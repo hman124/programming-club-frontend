@@ -10,10 +10,8 @@ In another command window, start the backend server `https://github.com/a5bhinav
 Then, start the dev server for the frontend
 
 ```
-
 npm install
 npm run dev
-
 ```
 
 It should give a link to http://localhost:5173
